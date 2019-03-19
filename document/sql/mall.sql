@@ -13,6 +13,9 @@ File Encoding         : 65001
 Date: 2019-01-29 14:14:36
 */
 
+create database mall;
+use mall;
+
 SET FOREIGN_KEY_CHECKS=0;
 
 -- ----------------------------
